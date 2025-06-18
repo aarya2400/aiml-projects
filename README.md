@@ -1,1 +1,1 @@
-# aarya-s-projects
+# Data science and machine learning projects
